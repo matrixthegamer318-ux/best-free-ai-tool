@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://rawlens.evostackr.in/">
+    <img src="./banner.png" alt="best free ai tool" width="100%" />
+  </a>
+</p>
+
 # Best Free AI Tool: Unlocking Powerful Solutions
 > "Discover the best free AI tools with [RawLens AI Directory](https://rawlens.evostackr.in/), your gateway to innovative and cost-effective artificial intelligence solutions."
 

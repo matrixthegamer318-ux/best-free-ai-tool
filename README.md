@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://rawlens.evostackr.in/">
-    <img src="./banner.png" alt="best free ai tool" width="100%" />
+    <img src="./banner.svg" alt="best free ai tool" width="100%" />
   </a>
 </p>
 

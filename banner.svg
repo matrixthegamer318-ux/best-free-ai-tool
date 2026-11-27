@@ -31,20 +31,20 @@
 
   <!-- Top Pill Badge -->
   <g transform="translate(60, 42)">
-    <rect width="220" height="28" rx="14" fill="#1e293b" stroke="#38bdf8" stroke-opacity="0.4" stroke-width="1" />
+    <rect width="210" height="28" rx="14" fill="#1e293b" stroke="#38bdf8" stroke-opacity="0.4" stroke-width="1" />
     <circle cx="14" cy="14" r="4" fill="#38bdf8" />
-    <text x="26" y="18" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" letter-spacing="1">RAWLENS CURATED DIRECTORY</text>
+    <text x="26" y="18" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" letter-spacing="1">RAWLENS AI • CREATIVE STUDIO</text>
   </g>
 
   <!-- Main Topic Title (Exact Keyword) -->
   <text x="60" y="125" fill="url(#titleGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="36" font-weight="800" letter-spacing="-0.5">BEST FREE AI TOOL</text>
 
   <!-- Subtitle -->
-  <text x="60" y="165" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="400">Curated open-source benchmarks, verified tools, and implementation guide.</text>
+  <text x="60" y="165" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="400">Fast photorealistic image generation, open benchmarks &amp; architecture guide.</text>
 
   <!-- Bottom Link Indicator -->
   <g transform="translate(60, 202)">
-    <text x="0" y="14" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="500">Interactive Web Platform: <tspan fill="#38bdf8">https://rawlens.evostackr.in/</tspan></text>
+    <text x="0" y="14" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="500">Live AI Creative Studio: <tspan fill="#38bdf8">https://rawlens.evostackr.in/</tspan></text>
   </g>
 
   <!-- Right Decorative Geometric Tech Graphic -->

@@ -1,0 +1,59 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f19" />
+      <stop offset="50%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#070a12" />
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0.15"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="85%" cy="30%" r="55%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <!-- Background Base (Slim Horizontal 1200x260) -->
+  <rect width="1200" height="260" rx="14" fill="url(#bg)" />
+  <rect width="1200" height="260" rx="14" fill="url(#grid)" />
+  <rect width="1200" height="260" rx="14" fill="url(#glow)" />
+  <rect width="1198" height="258" x="1" y="1" rx="13" fill="none" stroke="url(#borderGrad)" stroke-width="2" />
+
+  <!-- Top Pill Badge -->
+  <g transform="translate(60, 42)">
+    <rect width="220" height="28" rx="14" fill="#1e293b" stroke="#38bdf8" stroke-opacity="0.4" stroke-width="1" />
+    <circle cx="14" cy="14" r="4" fill="#38bdf8" />
+    <text x="26" y="18" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" letter-spacing="1">RAWLENS CURATED DIRECTORY</text>
+  </g>
+
+  <!-- Main Topic Title (Exact Keyword) -->
+  <text x="60" y="125" fill="url(#titleGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="36" font-weight="800" letter-spacing="-0.5">BEST FREE AI TOOL</text>
+
+  <!-- Subtitle -->
+  <text x="60" y="165" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="400">Curated open-source benchmarks, verified tools, and implementation guide.</text>
+
+  <!-- Bottom Link Indicator -->
+  <g transform="translate(60, 202)">
+    <text x="0" y="14" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="500">Interactive Web Platform: <tspan fill="#38bdf8">https://rawlens.evostackr.in/</tspan></text>
+  </g>
+
+  <!-- Right Decorative Geometric Tech Graphic -->
+  <g transform="translate(960, 30)" opacity="0.85">
+    <circle cx="100" cy="100" r="75" stroke="#38bdf8" stroke-opacity="0.2" stroke-width="1" stroke-dasharray="4 4" fill="none" />
+    <circle cx="100" cy="100" r="48" stroke="#818cf8" stroke-opacity="0.3" stroke-width="1.5" fill="none" />
+    <circle cx="100" cy="100" r="16" fill="#38bdf8" fill-opacity="0.1" stroke="#38bdf8" stroke-width="2" />
+    <circle cx="100" cy="100" r="5" fill="#38bdf8" />
+    <line x1="100" y1="20" x2="100" y2="180" stroke="#38bdf8" stroke-opacity="0.1" />
+    <line x1="20" y1="100" x2="180" y2="100" stroke="#38bdf8" stroke-opacity="0.1" />
+  </g>
+</svg>
